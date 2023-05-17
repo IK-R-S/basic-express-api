@@ -1,6 +1,6 @@
 # express-api
 
-Este repositório contém um exemplo simples de como criar uma API utilizando o framework Express em Node.js. Com esta API, é possível definir rotas comuns, rotas com parâmetros e renderizar uma pasta com arquivos na própria API.
+Este repositório contém um exemplo simples e básico de como criar uma API utilizando o framework Express em Node.js. Com esta API, é possível definir rotas comuns, rotas com parâmetros e renderizar uma pasta com arquivos na própria API.
 
 ## Configurações
 
