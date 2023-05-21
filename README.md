@@ -1,6 +1,7 @@
 # express-api
 
 Este repositório contém um exemplo simples e básico de como criar uma API utilizando o framework Express em Node.js. Com esta API, é possível definir rotas comuns, rotas com parâmetros e renderizar uma pasta com arquivos na própria API.
+> Este código é voltado para quem não possui muita experiência com flask. Para obter um exemplo mais avançado e com outros métodos de requisição visite: https://github.com/IK-R-S/RESTful-Express-API
 
 ## Configurações
 
